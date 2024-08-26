@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DevBrunoWerner
+- 👀 I’m interested in tech and games
+- 🌱 I’m currently learning python and java
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 How to reach me: brbruno3210@gmail.com
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: i love creating stuff and expressing my creativity
