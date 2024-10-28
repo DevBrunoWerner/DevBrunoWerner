@@ -8,8 +8,20 @@ Contact:
 ---
 [![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brbruno3210@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/bruno-werner-4b9219243/))
+---
+<details>
+<summary>Your pretty good</summary>
 
-<div align="center">
-    <img src="https://pbs.twimg.com/media/Ga_gR5TbQAcSrGF?format=jpg&name=4096x4096" alt="Descrição da imagem" width="500">
-    <p>01110100 01101000 01100101 00100000 01100010 01101111 01110011 01110011 00100000 01101001 01110011 00100000 01100001 01101100 01110111 01100001 01111001 01110011 00100000 01110111 01100001 01110100 01100011 01101000 01101001 01101110 01100111</p>
+<div style="width: 350px; text-align: center;">
+    <img src="https://gamehall.com.br/wp-content/uploads/2023/03/metal-gear-solid-3-780x470.webp" width="350" alt="Metal Gear Solid 3">
 </div>
+<div style="width: 350px; text-align: center;">
+    <p style="margin: 0;">01101011011001010111000001110100011110010010000001111001011011110111010101100011011110010010011101101100011010010111010001101000011010010111001100111111</p>
+</div>
+
+</details>
+
+
+
+
+
